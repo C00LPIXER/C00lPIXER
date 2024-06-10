@@ -23,6 +23,6 @@ Here are some of the tools and technologies I work with:
 ## Connect with Me
 
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/pen3)
-- **Email:** [your.email@example.com](amalkrishanp@gmail.com)
+- **Email:** [Email](amalkrishanp@gmail.com)
 
 
