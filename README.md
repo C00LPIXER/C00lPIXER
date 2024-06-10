@@ -1,8 +1,5 @@
 # Welcome to My GitHub Profile!
 
-![GitHub Snake Animation](https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg)
-
-
 
 ## About Me
 
