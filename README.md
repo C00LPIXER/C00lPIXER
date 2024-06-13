@@ -49,8 +49,5 @@ Here are some of the tools and technologies I work with:
 ![Ansible](https://img.shields.io/badge/-Ansible-333?style=flat&logo=ansible)
 ![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
 
-## 📊 GitHub Stats
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
-
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/amalkrishanp)
