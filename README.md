@@ -1,4 +1,7 @@
+![Snake](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)
+
 # Welcome to My GitHub Profile!
+
 
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)   ![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)   ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)   ![VS Code](https://img.shields.io/badge/-VS_Code-333?style=for-the-badge&logo=visual-studio-code)   ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)   
 
