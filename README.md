@@ -44,10 +44,5 @@ Here are some of the tools and technologies I work with:
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-333?style=flat&logo=owasp)
 ![Nikto](https://img.shields.io/badge/-Nikto-333?style=flat&logo=nikto)
 
-### Miscellaneous
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Ansible](https://img.shields.io/badge/-Ansible-333?style=flat&logo=ansible)
-![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
-
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/amalkrishanp)
