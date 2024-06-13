@@ -1,18 +1,18 @@
-![Snake](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)
+<div align="center">
+  <h1>Welcome to My GitHub Profile!</h1>
+  <p><img src="https://komarev.com/ghpvc/?username=johndoe&color=blue" alt="Profile Views"></p>
+</div>
 
-# Welcome to My GitHub Profile!
+![GitHub Snake Animation](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)
 
-
-![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)   ![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)   ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)   ![VS Code](https://img.shields.io/badge/-VS_Code-333?style=for-the-badge&logo=visual-studio-code)   ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)   
 
 ## About Me
 
-Hi! I'm AMAL KRISHNA, a passionate cybersecurity researcher and programmer. My interests lie at the intersection of software development and information security. I enjoy discovering vulnerabilities, building security tools, and contributing to open-source projects.
+Hi! I'm AMAL KRISHNA, a passionate cybersecurity researcher and programmer. My interests lie at the intersection of software development and information security. I enjoy discovering vulnerabilities.
 
-- 💼 Current Role: Cybersecurity Researcher and Programmer
-- 🎓 Education: Certified Penetration Testing, Ec-council Certified Soc Analyst
-- 🌍 Location: Kerala, India
-- 🔍 Areas of Expertise: Network Security, Penetration Testing, Secure Coding, Bug Hunting, Malware Analysis
+-  Education: Certified Penetration Testing, Ec-council Certified Soc Analyst
+-  Location: Kerala, India
+-  Areas of Expertise: Network Security, Penetration Testing, Secure Coding, Bug Hunting, Malware Analysis
 
 ## Tools and Technologies
 
@@ -22,8 +22,9 @@ Here are some of the tools and technologies I work with:
 - **Security Tools:** Metasploit, Wireshark, Nmap, Burp Suite, John the Ripper
 - **Development Tools:** VSCode
 - **Operating Systems:** Kali Linux, Windows
-
- ## 🛡️ Cybersecurity Tools
+<div align="center">
+  <h2>🛡️ Cybersecurity Tools</h2>
+</div>
 
 ### Network Analysis
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333?style=flat&logo=wireshark)
@@ -38,6 +39,8 @@ Here are some of the tools and technologies I work with:
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333?style=flat&logo=burp-suite)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333?style=flat&logo=kali-linux)
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-333?style=flat&logo=aircrack-ng)
+![Hydra](https://img.shields.io/badge/-Hydra-333?style=flat&logo=linux)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-333?style=flat&logo=linux)
 
 ### Security Information and Event Management (SIEM)
 ![Splunk](https://img.shields.io/badge/-Splunk-333?style=flat&logo=splunk)
@@ -46,6 +49,11 @@ Here are some of the tools and technologies I work with:
 ### Web Security
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-333?style=flat&logo=owasp)
 ![Nikto](https://img.shields.io/badge/-Nikto-333?style=flat&logo=nikto)
+![SQLmap](https://img.shields.io/badge/-SQLmap-333?style=flat&logo=linux)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/amalkrishanp)
+<div align="center">
+  <a href="www.linkedin.com/in/amalkrishanp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</div>
+
+
