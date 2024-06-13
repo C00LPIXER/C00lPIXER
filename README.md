@@ -3,8 +3,9 @@
   <p><img src="https://komarev.com/ghpvc/?username=johndoe&color=blue" alt="Profile Views"></p>
 </div>
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg" alt="GitHub Snake Animation">
+</div>
 
 ## About Me
 
@@ -55,5 +56,6 @@ Here are some of the tools and technologies I work with:
 <div align="center">
   <a href="www.linkedin.com/in/amalkrishanp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </div>
+
 
 
