@@ -54,7 +54,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🔗 Connect with me
 <div align="center">
-  <a href="www.linkedin.com/in/amalkrishanp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/amalkrishanp"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </div>
 
 
