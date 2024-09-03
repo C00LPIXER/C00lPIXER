@@ -3,10 +3,6 @@
   <p><img src="https://komarev.com/ghpvc/?username=johndoe&color=blue" alt="Profile Views"></p>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg" alt="GitHub Snake Animation">
-</div>
-
 ## About Me
 
 Hi! I'm AMAL KRISHNA, a passionate cybersecurity researcher and programmer. My interests lie at the intersection of software development and information security. I enjoy discovering vulnerabilities.
