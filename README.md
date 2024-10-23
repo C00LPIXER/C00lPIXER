@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #1e1e1e; color: #c9d1d9; padding: 20px;">
   <h1>👨‍💻 Welcome to My GitHub Profile! 👨‍💻</h1>
-  <p><img src="https://komarev.com/ghpvc/?username=johndoe&color=blue" alt="Profile Views"></p>
+  <p><img src="https://komarev.com/ghpvc/?username=c00LpXer&color=blue" alt="Profile Views"></p>
 </div>
 
 ## About Me
