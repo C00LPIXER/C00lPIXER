@@ -14,7 +14,7 @@
     name: "Amal Krishna",
     title: "Full-Stack Developer & Cybersecurity Researcher",
     location: "Kerala, India",
-    skills: ["MERN Stack", "Network Security", "Penetration Testing", "Bug Hunting", "Secure Coding"],
+    skills: ["MERN Stack", "Network Security", "Penetration Tester", "Bug Hunting", "Secure Coding"],
     certifications: ["Certified Penetration Testing", "EC-Council Certified SOC Analyst"],
     interests: ["Building scalable applications", "Vulnerability discovery", "Offensive Security"],
   };
