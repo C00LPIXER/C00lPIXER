@@ -1,44 +1,28 @@
-<div align="center" style="background-color: #1e1e1e; color: #c9d1d9; padding: 20px;">
-  <h1>👨‍💻 Welcome to My GitHub Profile! 👨‍💻</h1>
-  <p><img src="https://komarev.com/ghpvc/?username=c00LpXer&color=blue" alt="Profile Views"></p>
-</div>
-
-## About Me
-```javascript
-(function introduce() {
-  const profile = {
-    name: "Amal Krishna",
-    title: "Full-Stack Developer & Cybersecurity Researcher",
-    location: "Kerala, India",
-    skills: ["MERN Stack", "Network Security", "Penetration Testing", "Bug Hunting", "Secure Coding"],
-    certifications: ["Certified Penetration Testing", "EC-Council Certified SOC Analyst"],
-    interests: ["Building scalable applications", "Vulnerability discovery", "Offensive Security"],
-  };
-
-  console.log(`
-    Hi, I'm ${profile.name}! 
-    I'm a passionate ${profile.title} from ${profile.location} with expertise in:
-    - ${profile.skills.join('\n    - ')}
-  
-    I love ${profile.interests[0]}, securing them through ${profile.interests[1]}, 
-    and diving into ${profile.interests[2]}.
-  
-    ${profile.certifications.join(' | ')}
-  `);
-})();
-
-```
-<!--Hi! I'm **AMAL KRISHNA**, a passionate full-stack developer and cybersecurity researcher. I enjoy building scalable applications and securing them through vulnerability discovery and penetration testing. My focus is on **MERN stack** development and offensive security.
-
-- **Education:** Certified Penetration Testing, EC-Council Certified SOC Analyst
-- **Location:** Kerala, India
-- **Areas of Expertise:** Full-Stack Development (MERN), Network Security, Penetration Testing, Bug Hunting, Secure Coding
--->
----
-
 <div align="center">
-  <h2>⚙️ Tools & Technologies</h2>
+  <h1>👨‍💻 Welcome to My GitHub Profile! 👨‍💻</h1>
+  <p><img src="https://komarev.com/ghpvc/?username=C00LPIXER&color=red" alt="Profile Views"></p>
 </div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C00LPIXER&theme=github_dark&hide_border=true&title_color=FF0000&text_color=FF0000&border_color=FF0000" width="700"/>  
+</p>
+
+<img src="https://avatars.githubusercontent.com/u/170101755?v=4" align="left" width="50" height="50" alt="image"/>
+
+```javascript
+const profile = {
+  name: "Amal Krishna",
+  title: "Full-Stack Developer & Cybersecurity Researcher",
+  location: "Kerala, India",
+  skills: ["MERN Stack", "Network Security", "Penetration Testing", 
+           "Bug Hunting", "Secure Coding"],
+  certifications: ["Certified Penetration Testing", 
+                  "EC-Council Certified SOC Analyst"],
+  interests: ["Building scalable applications", "Vulnerability discovery", 
+             "Offensive Security"],
+};
+```
+
+## ⚙️ Tools & Technologies
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
@@ -61,25 +45,24 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-333?style=flat&logo=nmap)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333?style=flat&logo=burp-suite)
 
----
+## 📊 GitHub Analytics
+
 <div align="center">
-  <h2>Projects</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=C00LPIXER&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=0D1117" alt="GitHub Stats" width="465"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C00LPIXER&stroke=FF0000&background=0D1117&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000&hide_border=true" width="465"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C00LPIXER&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0D1117" width="355"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C00LPIXER&bg_color=0D1117&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true" width="700"/>
 </div>
----
 
+## Connect with Me
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-</div>
-
-<p align = "center">
-    <img align = "center" src = "https://streak-stats.demolab.com/?user=C00lPIXER&theme=shadow_red" /> <br/> <br/>
-    <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=C00LPIXER&show_icons=true&rank_icon=github&theme=shadow_red" />
-    <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=C00lPIXER&layout=compact&langs_count=8&card_width=320&theme=shadow_red&hide=css,sass" />
-</p>
-
-<div align="center">
-  <h2>🌐 Connect with Me</h2>
-  <a href="https://www.linkedin.com/in/amalkrishanp"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/amalkrishanp">
+    <img src="https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/C00LPIXER">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" alt="GitHub">
   </a>
 </div>
