@@ -4,12 +4,36 @@
 </div>
 
 ## About Me
-Hi! I'm **AMAL KRISHNA**, a passionate full-stack developer and cybersecurity researcher. I enjoy building scalable applications and securing them through vulnerability discovery and penetration testing. My focus is on **MERN stack** development and offensive security.
+```javascript
+(function introduce() {
+  const profile = {
+    name: "Amal Krishna",
+    title: "Full-Stack Developer & Cybersecurity Researcher",
+    location: "Kerala, India",
+    skills: ["MERN Stack", "Network Security", "Penetration Testing", "Bug Hunting", "Secure Coding"],
+    certifications: ["Certified Penetration Testing", "EC-Council Certified SOC Analyst"],
+    interests: ["Building scalable applications", "Vulnerability discovery", "Offensive Security"],
+  };
+
+  console.log(`
+    Hi, I'm ${profile.name}! 
+    I'm a passionate ${profile.title} from ${profile.location} with expertise in:
+    - ${profile.skills.join('\n    - ')}
+  
+    I love ${profile.interests[0]}, securing them through ${profile.interests[1]}, 
+    and diving into ${profile.interests[2]}.
+  
+    ${profile.certifications.join(' | ')}
+  `);
+})();
+
+```
+<!--Hi! I'm **AMAL KRISHNA**, a passionate full-stack developer and cybersecurity researcher. I enjoy building scalable applications and securing them through vulnerability discovery and penetration testing. My focus is on **MERN stack** development and offensive security.
 
 - **Education:** Certified Penetration Testing, EC-Council Certified SOC Analyst
 - **Location:** Kerala, India
 - **Areas of Expertise:** Full-Stack Development (MERN), Network Security, Penetration Testing, Bug Hunting, Secure Coding
-
+-->
 ---
 
 <div align="center">
@@ -38,17 +62,20 @@ Hi! I'm **AMAL KRISHNA**, a passionate full-stack developer and cybersecurity re
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333?style=flat&logo=burp-suite)
 
 ---
+<div align="center">
+  <h2>Projects</h2>
+</div>
+---
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 </div>
 
 <p align = "center">
-    <img align = "center" src = "https://streak-stats.demolab.com/?user=C00lPIXER&theme=transparent" /> <br/> <br/>
-    <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=C00lPIXER&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
-    <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=C00lPIXER&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+    <img align = "center" src = "https://streak-stats.demolab.com/?user=C00lPIXER&theme=shadow_red" /> <br/> <br/>
+    <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=C00LPIXER&show_icons=true&rank_icon=github&theme=shadow_red" />
+    <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=C00lPIXER&layout=compact&langs_count=8&card_width=320&theme=shadow_red&hide=css,sass" />
 </p>
----
 
 <div align="center">
   <h2>🌐 Connect with Me</h2>
