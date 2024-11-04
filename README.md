@@ -43,7 +43,7 @@ Hi! I'm **AMAL KRISHNA**, a passionate full-stack developer and cybersecurity re
   <h2>📊 GitHub Stats</h2>
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=c00LpXer&count_private=true&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f0f6fc)          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c00LpXer&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=C00LPIXER&count_private=false&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f0f6fc)          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c00LpXer&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
 
 ---
 
