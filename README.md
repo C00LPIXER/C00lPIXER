@@ -43,8 +43,11 @@ Hi! I'm **AMAL KRISHNA**, a passionate full-stack developer and cybersecurity re
   <h2>📊 GitHub Stats</h2>
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=C00LPIXER&count_private=false&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f0f6fc)          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c00LpXer&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
-
+<p align = "center">
+    <img align = "center" src = "https://streak-stats.demolab.com/?user=C00lPIXER&theme=transparent" /> <br/> <br/>
+    <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=C00lPIXER&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
+    <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=C00lPIXER&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</p>
 ---
 
 <div align="center">
