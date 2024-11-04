@@ -9,17 +9,26 @@
 <img src="https://avatars.githubusercontent.com/u/170101755?v=4" align="left" width="50" height="50" alt="image"/>
 
 ```javascript
-const profile = {
-  name: "Amal Krishna",
-  title: "Full-Stack Developer & Cybersecurity Researcher",
-  location: "Kerala, India",
-  skills: ["MERN Stack", "Network Security", "Penetration Testing", 
-           "Bug Hunting", "Secure Coding"],
-  certifications: ["Certified Penetration Testing", 
-                  "EC-Council Certified SOC Analyst"],
-  interests: ["Building scalable applications", "Vulnerability discovery", 
-             "Offensive Security"],
-};
+(function introduce() {
+  const profile = {
+    name: "Amal Krishna",
+    title: "Full-Stack Developer & Cybersecurity Researcher",
+    location: "Kerala, India",
+    skills: ["MERN Stack", "Network Security", "Penetration Testing", "Bug Hunting", "Secure Coding"],
+    certifications: ["Certified Penetration Testing", "EC-Council Certified SOC Analyst"],
+    interests: ["Building scalable applications", "Vulnerability discovery", "Offensive Security"],
+  };
+  console.log(`
+    Hi, I'm ${profile.name}! 
+    I'm a passionate ${profile.title} from ${profile.location} with expertise in:
+    - ${profile.skills.join('\n    - ')}
+  
+    I love ${profile.interests[0]}, securing them through ${profile.interests[1]}, 
+    and diving into ${profile.interests[2]}.
+  
+    ${profile.certifications.join(' | ')}
+  `);
+})();
 ```
 
 ## ⚙️ Tools & Technologies
