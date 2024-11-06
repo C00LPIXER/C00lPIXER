@@ -6,7 +6,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C00LPIXER&theme=github_dark&hide_border=true&title_color=FF0000&text_color=FF0000&border_color=FF0000" width="700"/>  
 </p>
 
-<img src="https://avatars.githubusercontent.com/u/170101755?v=4" align="left" width="50" height="50" alt="image"/>
 <!--
 ```javascript
 (function introduce() {
