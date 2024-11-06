@@ -7,7 +7,7 @@
 </p>
 
 <img src="https://avatars.githubusercontent.com/u/170101755?v=4" align="left" width="50" height="50" alt="image"/>
-
+<!--
 ```javascript
 (function introduce() {
   const profile = {
@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C00LPIXER&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0D1117" width="355"/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=C00LPIXER&bg_color=0D1117&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true" width="700"/>
-</div>
+</div> -->
 
 ## Connect with Me
 <div align="center">
