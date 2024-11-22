@@ -1,10 +1,22 @@
+<h1 align="center">
+  ＡＭＡＬ ＫＲＩＳＨＮＡ
+</h1>
+<p align="center">
+  <b>Full-Stack Developer & Cybersecurity Researcher</b><br>
+  Kerala, India
+</p>
+
 <div align="center">
-  <h1>👨‍💻 Welcome to My GitHub Profile! 👨‍💻</h1>
-  <p><img src="https://komarev.com/ghpvc/?username=C00LPIXER&color=red" alt="Profile Views"></p>
+  <p><img src="https://komarev.com/ghpvc/?username=C00LPIXER&color=000000" alt="Profile Views"></p>
 </div>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C00LPIXER&theme=github_dark&hide_border=true&title_color=FF0000&text_color=FF0000&border_color=FF0000" width="700"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C00LPIXER&bg_color=0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>  
 </p>
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=C00LPIXER&theme=matrix)
+</div>
 
 <!--
 ```javascript
@@ -62,9 +74,8 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C00LPIXER&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0D1117" width="355"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C00LPIXER&bg_color=0D1117&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true" width="700"/>
-</div> -->
-
+</div>
+-->
 ## Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/amalkrishanp">
