@@ -56,10 +56,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=C00LPIXER&bg_color=0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>  
 </p>
 
-<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: ; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=C00LPIXER&rank_icon=github&hide_border=true&theme=transparent&text_color=ffffff" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=C00LPIXER&stroke=ffffff&background=0000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+<div align="center" style="display: flex;">
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;" width="100%">
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=C00LPIXER&rank_icon=github&hide_border=true&theme=transparent&text_color=ffffff" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=C00LPIXER&stroke=ffffff&background=0000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 </div>
 </div>
 
