@@ -13,28 +13,38 @@
   | $ nano introduce.js                                                                                                    |
   |------------------------------------------------------------------------------------------------------------------------|
   |                                                                                                                        |
-  |  (function introduce() {                                                                                               |
-  |    const profile = {                                                                                                   |
-  |      name: "Amal Krishna",                                                                                             |
-  |      title: "Full-Stack Developer & Cybersecurity Researcher",                                                         |
-  |      location: "Kerala, India",                                                                                        |
-  |      skills: ["MERN Stack", "Network Security",                                                                        |
-  |               "Penetration Tester", "Bug Hunting", "Secure Coding"],                                                   |
-  |      certifications: ["Certified Penetration Testing",                                                                 |
-  |                       "EC-Council Certified SOC Analyst"],                                                             |
-  |      interests: ["Building scalable applications", "Vulnerability discovery",                                          |
-  |                  "Offensive Security"]                                                                                 |
-  |    };                                                                                                                  |
-  |    console.log(                                                                                                        |
-  |     `Hi, I'm ${profile.name}! I'm a passionate ${profile.title} from                                                   |
-  |     ${profile.location} with expertise in:                                                                             |
-  |     - ${profile.skills.join("\n    - ")}                                                                               |
-  |     I love ${profile.interests[0]}, securing them through ${profile.interests[1]},                                     |
-  |     and diving into ${profile.interests[2]}. ${profile.certifications.join(" | ")}`                                    |
-  |    );                                                                                                                  |
-  |  })();                                                                                                                 |
+  |  const profile = {                                                                                                     |
+  |    name: "Amal Krishna",                                                                                               |
+  |    title: "Full-Stack Developer & Cybersecurity Researcher",                                                           |
+  |    location: "Kerala, India",                                                                                          |
+  |    skills: ["MERN Stack", "Network Security",                                                                          |
+  |             "Penetration Tester", "Bug Hunting", "Secure Coding"],                                                     |
+  |    certifications: ["Certified Penetration Testing",                                                                   |
+  |                     "EC-Council Certified SOC Analyst"],                                                               |
+  |    interests: ["Building scalable applications", "Vulnerability discovery",                                            |
+  |                "Offensive Security"]                                                                                   |
+  |  };                                                                                                                    |
   |                                                                                                                        |
-  |  ^G Get Help   ^O Write Out   ^W Where Is   ^K Cut Text   ^C Cancel                                                    |
+  |  function introduce(profile) {                                                                                         |
+  |    console.log(`                                                                                                       |
+  |    Hi, I'm ${profile.name}!                                                                                            |
+  |    I'm a passionate ${profile.title} from ${profile.location}.                                                         |
+  |                                                                                                                        |
+  |    Expertise:                                                                                                          |
+  |      - ${profile.skills.join("\n      - ")}                                                                            |
+  |                                                                                                                        |
+  |    Certifications:                                                                                                     |
+  |      - ${profile.certifications.join("\n      - ")}                                                                    |
+  |                                                                                                                        |
+  |    I love ${profile.interests[0]}, securing them through ${profile.interests[1]},                                      |
+  |    and diving into ${profile.interests[2]}.                                                                            |
+  |    `);                                                                                                                 |
+  |  }                                                                                                                     |
+  |                                                                                                                        |
+  |  introduce(profile);                                                                                                   |
+  |                                                                                                                        |
+  |   ^G Get Help    ^O Write Out    ^W Where Is    ^K Cut Text    ^J Justify    ^C Cancel  ^R Read File  ^Y Prev Page     |
+  |   ^U Paste Text    ^T To Spell    ^_ Go To Line    ^X Exit    ^F Forward    ^B Back  ^I Insert File  ^M Mac Format     |
   |------------------------------------------------------------------------------------------------------------------------|
 ```
 <br>
