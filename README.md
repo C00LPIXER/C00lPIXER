@@ -5,64 +5,68 @@
   <b>Full-Stack Developer & Cybersecurity Researcher</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=C00LPIXER&color=000000" alt="Profile Views">
 </p>
-
-```javascript
-(function introduce() {
-  const profile = {
-    name: "Amal Krishna",
-    title: "Full-Stack Developer & Cybersecurity Researcher",
-    location: "Kerala, India",
-    skills: ["MERN Stack", "Network Security", "Penetration Tester", "Bug Hunting", "Secure Coding"],
-    certifications: ["Certified Penetration Testing", "EC-Council Certified SOC Analyst"],
-    interests: ["Building scalable applications", "Vulnerability discovery", "Offensive Security"]
-  };
-  console.log(
-    `Hi, I'm ${profile.name}! I'm a passionate ${profile.title} from ${profile.location}
-    with expertise in:- ${profile.skills.join("\n    - ")}
-    I love ${profile.interests[0]}, securing them through ${profile.interests[1]},
-    and diving into ${profile.interests[2]}. ${profile.certifications.join(" | ")}`
-);
-})();
+  
 ```
+  +------------------------------------------------------------------------------------------------------------------------------+
+  |                                                           TERMINAL                                                           |
+  +------------------------------------------------------------------------------------------------------------------------------+
+  | $ nano introduce.js                                                                                                          |
+  |------------------------------------------------------------------------------------------------------------------------------|
+  |                                                                                                                              |
+  |  (function introduce() {                                                                                                     |
+  |    const profile = {                                                                                                         |
+  |      name: "Amal Krishna",                                                                                                   |
+  |      title: "Full-Stack Developer & Cybersecurity Researcher",                                                               |
+  |      location: "Kerala, India",                                                                                              |
+  |      skills: ["MERN Stack", "Network Security",                                                                              |
+  |               "Penetration Tester", "Bug Hunting", "Secure Coding"],                                                         |
+  |      certifications: ["Certified Penetration Testing",                                                                       |
+  |                       "EC-Council Certified SOC Analyst"],                                                                   |
+  |      interests: ["Building scalable applications", "Vulnerability discovery",                                                |
+  |                  "Offensive Security"]                                                                                       |
+  |    };                                                                                                                        |
+  |    console.log(                                                                                                              |
+  |     `Hi, I'm ${profile.name}! I'm a passionate ${profile.title} from                                                         |
+  |     ${profile.location} with expertise in:                                                                                   |
+  |     - ${profile.skills.join("\n    - ")}                                                                                     |
+  |     I love ${profile.interests[0]}, securing them through ${profile.interests[1]},                                           |
+  |     and diving into ${profile.interests[2]}. ${profile.certifications.join(" | ")}`                                          |
+  |    );                                                                                                                        |
+  |  })();                                                                                                                       |
+  |                                                                                                                              |
+  |  ^G Get Help   ^O Write Out   ^W Where Is   ^K Cut Text   ^C Cancel                                                          |
+  |------------------------------------------------------------------------------------------------------------------------------|
+```
+<br>
+<br>
+<br>
+<!-- Skills -->
+<div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  </div>
+</div>
 
 <div align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=C00LPIXER&theme=dracula&no-bg=true&margin-w=15&margin-h=15)
-
 </div>
 
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=C00LPIXER&rank_icon=github&hide_border=true&theme=transparent&text_color=ffffff" alt="Top Languages" width="355" height="175" style="margin-right: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=C00LPIXER&stroke=ffffff&background=0000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="465" height="175" />
+  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C00LPIXER&bg_color=0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="850" height="300" alt="Contribution Constellation"/>
+</div>
+</div>
+
+<div style="border: 2px solid #E7CFAA; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C00LPIXER&bg_color=0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>  
+  <a href="https://www.linkedin.com/in/amalkrishanp"><img src="https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/C00LPIXER"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://tryhackme.com/p/C00LPIXER"><img src="https://img.shields.io/badge/-TryHackMe-333?style=flat&logo=tryhackme" alt="TryHackMe"></a>
+  <a href="https://leetcode.com/C00LPIXER"><img src="https://img.shields.io/badge/-LeetCode-333?style=flat&logo=leetcode" alt="LeetCode"></a>
+  <a href="https://wa.me/<your-phone-number>"><img src="https://img.shields.io/badge/-WhatsApp-333?style=flat&logo=whatsapp" alt="WhatsApp"></a>
+  <a href="https://instagram.com/<your-instagram-username>"><img src="https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram" alt="Instagram"></a>
 </p>
-
-<div align="center" style="display: flex;">
-  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;" width="100%">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=C00LPIXER&rank_icon=github&hide_border=true&theme=transparent&text_color=ffffff" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=C00LPIXER&stroke=ffffff&background=0000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
-</div>
-</div>
-
-<div align="center">
-
-## Connect with Me
-
-  <a href="https://www.linkedin.com/in/amalkrishanp" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/C00LPIXER" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" alt="GitHub">
-  </a>
-  <a href="https://tryhackme.com/p/C00LPIXER" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-TryHackMe-333?style=flat&logo=tryhackme" alt="TryHackMe">
-  </a>
-  <a href="https://leetcode.com/C00LPIXER" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LeetCode-333?style=flat&logo=leetcode" alt="LeetCode">
-  </a>
-  <a href="https://wa.me/<your-phone-number>" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-WhatsApp-333?style=flat&logo=whatsapp" alt="WhatsApp">
-  </a>
-  <a href="https://instagram.com/<your-instagram-username>" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram" alt="Instagram">
-  </a>
-
-</div>
