@@ -48,8 +48,7 @@
   |  introduce(profile);                                                                                                   |
   |                                                                                                                        |
   |   ^G Get Help    ^O Write Out    ^W Where Is    ^K Cut Text    ^J Justify    ^C Cancel  ^R Read File  ^Y Prev Page     |
-  |                                                                                                                        |
-  |   ^U Paste Text    ^T To Spell    ^_ Go To Line    ^X Exit    ^F Forward    ^B Back  ^I Insert File  ^W Where Is       |
+  |   ^U Paste Text    ^T To Spell    ^Go To Line    ^X Exit    ^F Forward    ^B Back  ^I Insert File  ^W Where Is         |
   |------------------------------------------------------------------------------------------------------------------------|
 ```
 <br>
