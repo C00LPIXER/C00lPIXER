@@ -8,10 +8,10 @@
 <!-- <div align="right">
     <a href="#"><img src="https://github-stats-alpha.vercel.app/api?username=C00LPIXER&cc=000&tc=fff&ic=fff&bc=000" alt="Example" width="355" height="175" style="margin-right: 10px;" /></a>
 </div> -->
-<div align="right">
-
+<!-- <div align="right">
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C00LPIXER&repo=aperture)](https://github.com/C00lPIXER/aperture)
-</div>
+</div> 
+-->
   
 ```javascript
   +------------------------------------------------------------------------------------------------------------------------+
