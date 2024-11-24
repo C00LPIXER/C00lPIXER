@@ -104,7 +104,7 @@
 <h1> ᴘᴏʀᴛꜰᴏʟɪᴏ </h1>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C00LPIXER&repo=aperture&title_color=ffff&icon_color=ffff&text_color=ffff&bg_color=0000&border_color=0000)](https://github.com/C00lPIXER/aperture)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C00LPIXER&repo=leetcode_js&title_color=ffff&icon_color=ffff&text_color=ffff&bg_color=0000&border_color=0000)](https://github.com/C00lPIXER/leetcode_js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C00LPIXER&repo=leetcode&title_color=ffff&icon_color=ffff&text_color=ffff&bg_color=0000&border_color=0000)](https://github.com/C00lPIXER/leetcode_js)
 </div>
 
 <!--
