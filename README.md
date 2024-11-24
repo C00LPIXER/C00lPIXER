@@ -61,7 +61,7 @@
   
 <!-- Skills -->
 <div align="left" style="color: #ffffff;">
-  <h1> ꜱᴋɪʟʟꜱ </h1>
+  <h1>_________ꜱᴋɪʟʟꜱ </h1>
   
   <!-- Skill Badges with increased width and height -->
   <img src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=javascript&logoColor=ffff" alt="JavaScript" width="100" height="40" />
@@ -101,7 +101,7 @@
 
 <!-- List projects -->
 <div align="right">
-<h1> ᴘᴏʀᴛꜰᴏʟɪᴏ </h1>
+<h1> ᴘᴏʀᴛꜰᴏʟɪᴏ_________ </h1>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C00LPIXER&repo=aperture&title_color=ffff&icon_color=ffff&text_color=ffff&bg_color=0000&border_color=0000)](https://github.com/C00lPIXER/aperture)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C00LPIXER&repo=leetcode&title_color=ffff&icon_color=ffff&text_color=ffff&bg_color=0000&border_color=0000)](https://github.com/C00lPIXER/leetcode_js)
