@@ -5,6 +5,13 @@
   <b>Full-Stack Developer & Cybersecurity Researcher</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=C00LPIXER&color=000000" alt="Profile Views">
 </p>
+<!-- <div align="right">
+    <a href="#"><img src="https://github-stats-alpha.vercel.app/api?username=C00LPIXER&cc=000&tc=fff&ic=fff&bc=000" alt="Example" width="355" height="175" style="margin-right: 10px;" /></a>
+</div> -->
+<div align="right">
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C00LPIXER&repo=aperture)](https://github.com/C00lPIXER/aperture)
+</div>
   
 ```javascript
   +------------------------------------------------------------------------------------------------------------------------+
@@ -54,10 +61,12 @@
   </div>
 </div>
 
+<!--
 <div align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=C00LPIXER&theme=dracula&no-bg=true&margin-w=15&margin-h=15)
 </div>
+-->
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
