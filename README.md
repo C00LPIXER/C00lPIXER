@@ -90,6 +90,7 @@
   <br>
   <br>
 
+   > Tools and technologies that I have worked with and am interested in cyber security <br>
   <img src="https://img.shields.io/badge/Nmap-%23000000?style=for-the-badge&logo=nmap&logoColor=ffff" alt="Nmap" width="100" height="40" />
   <img src="https://img.shields.io/badge/Burp%20Suite-%23000000?style=for-the-badge&logo=burp-suite&logoColor=ffff" alt="Burp Suite" width="100" height="40" />
   <img src="https://img.shields.io/badge/Wireshark-%23000000?style=for-the-badge&logo=wireshark&logoColor=ffff" alt="Wireshark" width="100" height="40" />
@@ -98,6 +99,7 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-%23000000?style=for-the-badge&logo=kali-linux&logoColor=ffff" alt="Kali Linux" width="100" height="40" />
   <img src="https://img.shields.io/badge/Nuclei-%23000000?style=for-the-badge&logo=nuclei&logoColor=ffff" alt="Nuclei" width="100" height="40" />
 </div>
+     
 
 <!-- List projects -->
 <div align="right">
