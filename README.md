@@ -110,6 +110,71 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C00LPIXER&repo=Data-Structure-Algorithms&title_color=ffff&icon_color=ffff&text_color=ffff&bg_color=0000&border_color=0000)](https://github.com/C00lPIXER/Data-Structure-Algorithms)
 </div>
 
+<!-- List projects -->
+<div align="left">
+<h1> Badges_________ </h1>
+  
+   > Try Hack Me Room Badges
+
+<table>
+  <tr>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" alt="tryhackme-badges" width="55" />
+      <br>🇭🇦🇸🇭 🇨🇷🇦🇨🇰🇪🇷
+    </td>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/blue.svg" alt="tryhackme-badges" width="55" />
+      <br>🇧🇱🇺🇪
+    </td>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" alt="tryhackme-badges" width="55" />
+      <br>🇲🇷. 🇷🇴🇧🇴🇹
+    </td>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/ohsint.svg" alt="tryhackme-badges" width="55" />
+      <br>🇴🇭🇸🇮🇳🇹
+    </td>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="tryhackme-badges" width="55" />
+      <br>🇨🇦🇹 🇱🇮🇳🇺🇽.🇹🇽🇹
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/linuxprivesc.svg" alt="tryhackme-badges" width="55" />
+      <br>🇱🇮🇳🇺🇽 🇵🇷🇮🇻🇪🇸🇨
+    </td>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="tryhackme-badges" width="55" />
+      <br>🇵🇪🇳🇹🇪🇸🇹 🇵🇷🇮🇳🇨🇮🇵🇱🇪🇸
+    </td>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="tryhackme-badges" width="55" />
+      <br>🇼🇪🇧🇧🇪🇩
+    </td>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="tryhackme-badges" width="55" />
+      <br>🇸🇪🇨🇺🇷🇮🇹🇾 🇪🇳🇬🇮🇳🇪🇪🇷
+    </td>
+    <td align="center" width="150">
+        <img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="tryhackme-badges" width="55" />
+      <br>🇭🇦🇨🇰🇮🇳🇬 🇸🇹🇷🇪🇦🇰
+    </td>
+  </tr>
+</table>
+<br>
+<table>
+
+  > Leet Code Badges
+  <tr>
+    <td align="center" width="150">
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="leetcode-badges" width="55" />
+      <br>50 🇩🇦🇾🇸 🇧🇦🇩🇬🇪
+    </td>
+  </tr>
+</table>
+</div>
+
 <!--
 <div align="center">
 
