@@ -120,45 +120,45 @@
 <table>
   <tr>
     <td align="center" width="150">
-       <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" alt="tryhackme-badges" width="55" /></a>
+       <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇭🇦🇸🇭 🇨🇷🇦🇨🇰🇪🇷
     </td>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/blue.svg" alt="tryhackme-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/blue.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇧🇱🇺🇪
     </td>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" alt="tryhackme-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇲🇷. 🇷🇴🇧🇴🇹
     </td>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/ohsint.svg" alt="tryhackme-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/ohsint.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇴🇭🇸🇮🇳🇹
     </td>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="tryhackme-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇨🇦🇹 🇱🇮🇳🇺🇽.🇹🇽🇹
     </td>
   </tr>
   <tr>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/linuxprivesc.svg" alt="tryhackme-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/linuxprivesc.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇱🇮🇳🇺🇽 🇵🇷🇮🇻🇪🇸🇨
     </td>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="tryhackme-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇵🇪🇳🇹🇪🇸🇹 🇵🇷🇮🇳🇨🇮🇵🇱🇪🇸
     </td>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="tryhackme-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇼🇪🇧🇧🇪🇩
     </td>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="tryhackme-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇸🇪🇨🇺🇷🇮🇹🇾 🇪🇳🇬🇮🇳🇪🇪🇷
     </td>
     <td align="center" width="150">
-        <a href="https://leetcode.com/u/kr_i_s_h__/"><img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="tryhackme-badges" width="55" /></a>
+        <a href="https://leetcode.com/u/kr_i_s_h__/" target="_blank"><img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇭🇦🇨🇰🇮🇳🇬 🇸🇹🇷🇪🇦🇰
     </td>
   </tr>
@@ -169,7 +169,7 @@
   > Leet Code Badges
   <tr>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="leetcode-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="leetcode-badges" width="55" /></a>
       <br>50 🇩🇦🇾🇸 🇧🇦🇩🇬🇪
     </td>
   </tr>
@@ -197,10 +197,10 @@
 <div align="center">
 <h1> ᴄᴏɴᴛᴀᴄᴛ </h1>
   
-  <a href="https://www.linkedin.com/in/amalkrishanp"><img src="https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/C00LPIXER"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://tryhackme.com/p/C00LPIXER"><img src="https://img.shields.io/badge/-TryHackMe-333?style=flat&logo=tryhackme" alt="TryHackMe"></a>
-  <a href="https://leetcode.com/C00LPIXER"><img src="https://img.shields.io/badge/-LeetCode-333?style=flat&logo=leetcode" alt="LeetCode"></a>
-  <a href="https://wa.me/<your-phone-number>"><img src="https://img.shields.io/badge/-WhatsApp-333?style=flat&logo=whatsapp" alt="WhatsApp"></a>
-  <a href="https://instagram.com/<your-instagram-username>"><img src="https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/amalkrishanp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/C00LPIXER" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-333?style=flat&logo=tryhackme" alt="TryHackMe"></a>
+  <a href="https://leetcode.com/u/kr_i_s_h__/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-333?style=flat&logo=leetcode" alt="LeetCode"></a>
+  <a href="https://wa.me/qr/SCAEAUKXX2BRP1" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-333?style=flat&logo=whatsapp" alt="WhatsApp"></a>
+  <a href="https://www.instagram.com/kr_i_s_h__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram" alt="Instagram"></a>
 </div>
