@@ -116,48 +116,49 @@
   
    > Try Hack Me Room Badges
 
+
 <table>
   <tr>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" alt="tryhackme-badges" width="55" />
+       <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇭🇦🇸🇭 🇨🇷🇦🇨🇰🇪🇷
     </td>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/blue.svg" alt="tryhackme-badges" width="55" />
+        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/blue.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇧🇱🇺🇪
     </td>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" alt="tryhackme-badges" width="55" />
+        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇲🇷. 🇷🇴🇧🇴🇹
     </td>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/ohsint.svg" alt="tryhackme-badges" width="55" />
+        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/ohsint.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇴🇭🇸🇮🇳🇹
     </td>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="tryhackme-badges" width="55" />
+        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇨🇦🇹 🇱🇮🇳🇺🇽.🇹🇽🇹
     </td>
   </tr>
   <tr>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/linuxprivesc.svg" alt="tryhackme-badges" width="55" />
+        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/linuxprivesc.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇱🇮🇳🇺🇽 🇵🇷🇮🇻🇪🇸🇨
     </td>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="tryhackme-badges" width="55" />
+        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇵🇪🇳🇹🇪🇸🇹 🇵🇷🇮🇳🇨🇮🇵🇱🇪🇸
     </td>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="tryhackme-badges" width="55" />
+        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇼🇪🇧🇧🇪🇩
     </td>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="tryhackme-badges" width="55" />
+        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇸🇪🇨🇺🇷🇮🇹🇾 🇪🇳🇬🇮🇳🇪🇪🇷
     </td>
     <td align="center" width="150">
-        <img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="tryhackme-badges" width="55" />
+        <a href="https://leetcode.com/u/kr_i_s_h__/"><img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="tryhackme-badges" width="55" /></a>
       <br>🇭🇦🇨🇰🇮🇳🇬 🇸🇹🇷🇪🇦🇰
     </td>
   </tr>
@@ -168,7 +169,7 @@
   > Leet Code Badges
   <tr>
     <td align="center" width="150">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="leetcode-badges" width="55" />
+        <a href="https://tryhackme.com/r/p/coolpixer"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="leetcode-badges" width="55" /></a>
       <br>50 🇩🇦🇾🇸 🇧🇦🇩🇬🇪
     </td>
   </tr>
