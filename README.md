@@ -3,8 +3,8 @@
 </h1>
 <p align="center">
   <b>Full-Stack Developer & Cybersecurity Researcher</b><br><be>
-  <a href="https://github.com/C00lPIXER"><img src="https://img.shields.io/github/stars/C00LPIXER?label=Stars" alt="stars"></a> 
-  <a href="https://github.com/C00lPIXER"><img alt="followers" src="https://img.shields.io/github/followers/C00LPIXER?label=Followers&style=social"></a>
+  <a href=""><img src="https://img.shields.io/github/stars/C00LPIXER?label=Stars" alt="stars"></a> 
+  <a href=""><img alt="followers" src="https://img.shields.io/github/followers/C00LPIXER?label=Followers&style=social"></a>
 </>
 
 <!-- <div align="right">
