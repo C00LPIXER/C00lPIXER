@@ -166,6 +166,12 @@
       <br>Hacking Streak
     </td>
   </tr>
+  <tr>
+    <td align="center" width="150">
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="tryhackme-badges" width="55" /></a>
+      <br>OWASP Top 10
+    </td>
+  </tr>
 </table>
 <br>
 <table>
