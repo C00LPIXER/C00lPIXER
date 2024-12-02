@@ -179,7 +179,7 @@
   > Leet Code Badges
   <tr>
     <td align="center" width="150">
-        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="leetcode-badges" width="55" /></a>
+        <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leetcode-badges" width="55" /></a>
       <br>50 Days Badge
     </td>
   </tr>
