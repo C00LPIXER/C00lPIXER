@@ -60,13 +60,13 @@
 <br>
 <be>
   
-<!-- Skills -->
+<!-- Skills 
 <div align="left" style="color: #ffffff;">
   <h1>_________ꜱᴋɪʟʟꜱ </h1>
 
    > Tools and technologies that I have worked with and am interested in Programing <br>
    
-  <!-- Skill Badges with increased width and height -->
+  <!-- Skill Badges with increased width and height 
   <a href="https://github.com/C00lPIXER"><img src="https://img.shields.io/badge/JavaScript-%23000000?style=for-the-badge&logo=javascript&logoColor=ffff" alt="JavaScript" width="100" height="40" /></a>
   <a href="https://github.com/C00lPIXER"><img src="https://img.shields.io/badge/C-%23000000?style=for-the-badge&logo=c&logoColor=ffff" alt="C" width="100" height="40" /></a>
   <a href="https://github.com/C00lPIXER"><img src="https://img.shields.io/badge/Python-%23000000?style=for-the-badge&logo=python&logoColor=ffff" alt="Python" width="100" height="40" /></a>
@@ -103,6 +103,7 @@
   <a href="https://github.com/C00lPIXER"><img src="https://img.shields.io/badge/Kali%20Linux-%23000000?style=for-the-badge&logo=kali-linux&logoColor=ffff" alt="Kali Linux" width="100" height="40" /></a>
   <a href="https://github.com/C00lPIXER"><img src="https://img.shields.io/badge/Nuclei-%23000000?style=for-the-badge&logo=nuclei&logoColor=ffff" alt="Nuclei" width="100" height="40" /></a>
 </div>
+-->
      
 
 <!-- List projects -->
