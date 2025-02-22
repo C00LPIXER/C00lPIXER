@@ -194,11 +194,11 @@
   <tr>
     <td align="center" width="150">
         <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://bugcrowd.com/assets/level-1-PXV6KQIZ.digested.svg" alt="leetcode-badges" width="55" /></a>
-      <br>Submission Shogun L1
+      <br>Submission Shogun
     </td>
     <td align="center" width="150">
         <a href="https://tryhackme.com/r/p/coolpixer" target="_blank"><img src="https://bugcrowd.com/assets/level-1-JPYSX55K.digested.svg" alt="leetcode-badges" width="55" /></a>
-      <br>Bounty Bee L1
+      <br>Bounty Bee
     </td>
   </tr>
 </table>
